@@ -57,3 +57,17 @@ end
 figure
 imshow(uint8(NEQR))
 title('NEQR')
+
+
+
+%%%%%%Letter of seeking advice
+
+Dear SijiBJ,
+
+  I am happy for reading your project "MAIN-PROJECT", and have learned more about the quantum image processing. 
+  However, as a beginner, I have some puzzle on these codes. For example, the codes used to convert the image into quantum representation in the file "NEQR of orginal image.m" are not understood easily. For the representation of NEQR image, why divide the image into 2*2 blocks to process separately.If possible, please give us the codes about the decryption process for further learning.
+
+  Sincerely expect your reply.This is my email address:605331267@qq.com
+
+Student, Song Tian
+Xi'an University of Technology, Xi'an City, China
